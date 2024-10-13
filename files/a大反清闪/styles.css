@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u1065_img {
+#u1068_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:1645px;
   height:925px;
 }
-#u1065 {
+#u1068 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -33,20 +33,20 @@
   height:925px;
   display:flex;
 }
-#u1065 .text {
+#u1068 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1065_text {
+#u1068_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1066_div {
+#u1069_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -64,7 +64,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1066 {
+#u1069 {
   border-width:0px;
   position:absolute;
   left:785px;
@@ -73,20 +73,20 @@
   height:43px;
   display:flex;
 }
-#u1066 .text {
+#u1069 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1066_text {
+#u1069_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1067_div {
+#u1070_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -106,7 +106,7 @@
   font-size:32px;
   color:#FB0000;
 }
-#u1067 {
+#u1070 {
   border-width:0px;
   position:absolute;
   left:667px;
@@ -120,19 +120,19 @@
   font-size:32px;
   color:#FB0000;
 }
-#u1067 .text {
+#u1070 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u1067_text {
+#u1070_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u1068 {
+#u1071 {
   border-width:0px;
   position:absolute;
   left:842px;
@@ -140,7 +140,7 @@
   width:0px;
   height:0px;
 }
-#u1068_seg0 {
+#u1071_seg0 {
   border-width:0px;
   position:absolute;
   left:-50px;
@@ -152,7 +152,7 @@
   -ms-transform:rotate(-56.0564129802482deg);
   transform:rotate(-56.0564129802482deg);
 }
-#u1068_seg1 {
+#u1071_seg1 {
   border-width:0px;
   position:absolute;
   left:-14px;
@@ -164,7 +164,7 @@
   -ms-transform:rotate(123.94358701975deg);
   transform:rotate(123.94358701975deg);
 }
-#u1068_seg2 {
+#u1071_seg2 {
   border-width:0px;
   position:absolute;
   left:-35px;
@@ -172,7 +172,7 @@
   width:1px;
   height:1px;
 }
-#u1068_text {
+#u1071_text {
   border-width:0px;
   position:absolute;
   left:-67px;
