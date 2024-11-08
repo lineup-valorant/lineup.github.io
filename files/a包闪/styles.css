@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:0px;
-  width:1643px;
+  width:1639px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -16,43 +16,43 @@
   position:absolute;
   z-index:0;
 }
-#u1022_img {
+#u902_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:1643px;
-  height:924px;
+  width:1639px;
+  height:923px;
 }
-#u1022 {
+#u902 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:1643px;
-  height:924px;
+  width:1639px;
+  height:923px;
   display:flex;
 }
-#u1022 .text {
+#u902 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1022_text {
+#u902_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1023_div {
+#u903_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:45px;
-  height:36px;
+  width:49px;
+  height:51px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
@@ -64,34 +64,34 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1023 {
+#u903 {
   border-width:0px;
   position:absolute;
-  left:799px;
-  top:438px;
-  width:45px;
-  height:36px;
+  left:797px;
+  top:436px;
+  width:49px;
+  height:51px;
   display:flex;
 }
-#u1023 .text {
+#u903 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1023_text {
+#u903_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1024_div {
+#u904_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:480px;
+  width:320px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -106,12 +106,12 @@
   font-size:32px;
   color:#FB0000;
 }
-#u1024 {
+#u904 {
   border-width:0px;
   position:absolute;
-  left:582px;
-  top:367px;
-  width:480px;
+  left:662px;
+  top:502px;
+  width:320px;
   height:37px;
   display:flex;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
@@ -120,14 +120,14 @@
   font-size:32px;
   color:#FB0000;
 }
-#u1024 .text {
+#u904 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u1024_text {
+#u904_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
